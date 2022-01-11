@@ -1,0 +1,26 @@
+body {
+  background-color: tan;
+}
+
+h1 {
+  color: darkred;
+}
+
+h2.flashy {
+   color: red;
+   font-style: italic;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+strong.flashy {
+  color: red;
+  font-style: italic;
+}
+
+p.best {
+  color: pink;
+}
